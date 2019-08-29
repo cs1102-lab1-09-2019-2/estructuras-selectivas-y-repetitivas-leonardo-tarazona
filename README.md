@@ -2,10 +2,10 @@
 ## Selectivas y Repetitivas
 
 Nombre:
---
+Leonardo Tarazona Flores
 
 Github Username:
---
+leonardo-tarazona
 
 Instrucciones:
 --
